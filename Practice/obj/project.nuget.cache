@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LYPCFZlBriejwRC6Lh7Kwn/bNGEETCuekK1f5F4YjgHvhRoHP7blHhFUarfFD+MekzMNKjQ11vKpb4DSUT3hfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\RiderProjects\\Practice_Explorer\\Practice\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
